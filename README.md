@@ -4,7 +4,7 @@ You may or may not know me from https://ecdp.tech which was replaced by https://
 
 # 🚀 My stats
 
-[![I flex](https://github-readme-stats-sathonay.vercel.app/api?username=spjoes&count_private=true&hide_border=true&show_icons=true&bg_color=1A1C1F&text_color=FFFFFF&title_color=9680E7&icon_color=9680E7)](https://github.com/spjoes)
+[![I flex](https://github-readme-stats-sathonay.vercel.app/api?username=spjoes&line_height=27&count_private=true&hide_border=true&show_icons=true&bg_color=1A1C1F&text_color=FFFFFF&title_color=9680E7&icon_color=9680E7)](https://github.com/spjoes)
 [![Discord Presence](https://lanyard.cnrad.dev/api/202109343678726144)](https://discord.com/users/202109343678726144)
 
 ### 💻 What coding languages I use
