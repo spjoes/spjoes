@@ -25,10 +25,11 @@ I'm the person... well... like... idk, you get it... I started programming on sc
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🎮 What console's I play
+### 🎮 What I play
 ![Nintendo](https://img.shields.io/badge/Nintendo-8F8F8F?style=for-the-badge&logo=nintendo&logoColor=white)
 ![Xbox](https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 ![Playstation](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation&logoColor=white)
+![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white)
 
 
 # 📫 Where you can find me
