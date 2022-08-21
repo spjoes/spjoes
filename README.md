@@ -35,8 +35,8 @@ I'm the person... well... like... idk, you get it... I started programming on sc
 [![Twitter Follow](https://img.shields.io/twitter/follow/IAmTh3Person?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/IAmTh3Person)
 [![YouTube](https://img.shields.io/badge/IAmThePerson-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4fk7I5-MPWBIiFsDSe_VZg)
 [![Twitch](https://img.shields.io/badge/IAmTh3Person-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/iamth3person)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/official_spjoes)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/spjoes)
+[![Reddit](https://img.shields.io/badge/official_spjoes-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/official_spjoes)
+[![Steam](https://img.shields.io/badge/mr_spjoes-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/spjoes)
 
 <!--
 **spjoes/Profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
