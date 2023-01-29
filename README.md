@@ -1,5 +1,5 @@
 # 👋 Hi there !
-I'm the person... well... like... idk, you get it... I started programming on scratch.mit.edu back in 2013 on my first computer and started learning my first text-based programming, HTML/CSS, a few years later. Back in 2018 I started my first ever Java project, a Minecraft 1.12.2 mod. Since COVID-19 hit, I have started learning Javascript and NodeJS and i'm learning more everyday. You may know me from https://joeyarchives.me (previously ecdp.tech) where I document obsecurities in Video Games since love everything Nintendo and video game preservation wise. I also own https://persn.dev where you can find my other projects i've worked on such as [Eggium](https://eggium.net).
+I'm Joey but I go by IAmThePerson online. I started programming on scratch.mit.edu back in 2013 on my first computer and started learning my first text-based programming, HTML/CSS, shortly after. Back in 2017 I started my first ever Java project, a Minecraft 1.12.2 mod called Extra-Ons. Now, I mainly focus on Javascript/Nodejs, Java, and building website's. You may know me from https://obscurity.lol (previously ecdp.tech) where I document obsecurities in Video Games since love everything Nintendo and video game preservation wise. I also own https://persn.dev where you can find my other projects i've worked on such as [Eggium](https://eggium.net).
 
 # 🚀 My stats
 
