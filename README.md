@@ -6,31 +6,13 @@ I'm Joey but I go by IAmThePerson online. I started programming on scratch.mit.e
 [![I flex](https://github-readme-stats-sathonay.vercel.app/api?username=spjoes&line_height=27&count_private=true&hide_border=true&show_icons=true&bg_color=1A1C1F&text_color=FFFFFF&title_color=9680E7&icon_color=9680E7)](https://github.com/spjoes)
 [![Discord Presence](https://lanyard.cnrad.dev/api/202109343678726144)](https://discord.com/users/202109343678726144)
 
-### 💻 What coding languages I use
+### 💻 What I Can Do/Use
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### ⚛️ What Coding Things I use
 ![Node JS](https://img.shields.io/badge/Node%20JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white)
-
-### ⌨️ What IDEs I use
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🖥️ What OS I use
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🎮 What I play
-![Nintendo](https://img.shields.io/badge/Nintendo-8F8F8F?style=for-the-badge&logo=nintendo&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-![Playstation](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation&logoColor=white)
-![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white)
-
 
 # 📫 Where you can find me
 [![Twitter Follow](https://img.shields.io/twitter/follow/IAmTh3Person?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/IAmTh3Person)
