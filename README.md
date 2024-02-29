@@ -15,7 +15,7 @@ I'm Joey but I go by IAmThePerson online. I started programming on scratch.mit.e
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white)
 
 # 📫 Where you can find me
-[![Twitter Follow](https://img.shields.io/twitter/follow/IAmTh3Person?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/IAmTh3Person)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/IAmTh3Person?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/IAmTh3Person) -->
 [![YouTube](https://img.shields.io/badge/IAmThePerson-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4fk7I5-MPWBIiFsDSe_VZg)
 [![Twitch](https://img.shields.io/badge/IAmTh3Person-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/iamth3person)
 [![Reddit](https://img.shields.io/badge/official_spjoes-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/official_spjoes)
