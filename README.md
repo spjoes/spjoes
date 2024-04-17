@@ -2,17 +2,16 @@
 I'm Joey but I go by IAmThePerson online. I started programming on scratch.mit.edu back in 2013 on my first computer and started learning my first text-based programming, HTML/CSS, shortly after. Back in 2017 I started my first ever Java project, a Minecraft 1.12.2 mod called Extra-Ons. Now, I mainly focus on Javascript/Nodejs, Java, building website's, and PCB design. I love everything Nintendo and video game preservation wise. I also own https://persn.dev where you can find my other projects i've worked on such as [Eggium](https://eggium.net) and [Ghostberry](https://ghostberry.net).
 
 # 🚀 My stats
-
 [![I flex](https://github-readme-stats-sathonay.vercel.app/api?username=spjoes&line_height=27&count_private=true&hide_border=true&show_icons=true&bg_color=1A1C1F&text_color=FFFFFF&title_color=9680E7&icon_color=9680E7)](https://github.com/spjoes)
 [![Discord Presence](https://lanyard.cnrad.dev/api/202109343678726144)](https://discord.com/users/202109343678726144)
 
-### 💻 What I Can Do/Use
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+# 💻 Techstack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Swift]([https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E])
+![Bun]([https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white])
 ![Node JS](https://img.shields.io/badge/Node%20JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white)
+![Next.js]([https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white])
 
 # 📫 Where you can find me
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/IAmTh3Person?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/IAmTh3Person) -->
