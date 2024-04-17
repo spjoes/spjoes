@@ -1,7 +1,16 @@
 # 👋 Hi there !
-I'm Joey but I go by IAmThePerson online. I started programming on scratch.mit.edu back in 2013 on my first computer and started learning my first text-based programming, HTML/CSS, shortly after. Back in 2017 I started my first ever Java project, a Minecraft 1.12.2 mod called Extra-Ons. Now, I mainly focus on Javascript/Nodejs, Java, building website's, and PCB design. I love everything Nintendo and video game preservation wise. I also own https://persn.dev where you can find my other projects i've worked on such as [Eggium](https://eggium.net) and [Ghostberry](https://ghostberry.net).
+I'm Joey but I go by IAmThePerson online.
+- I started programming on scratch.mit.edu back in 2013 and started learning my first text-based programming, HTML/CSS, shortly after.
+- Back in 2017, I started my first ever Java project, a Minecraft 1.12.2 mod called Extra-Ons.
+- Currently, I mainly focus on:
+  -  Javascript/Nodejs
+  -  Swift
+  -  Building Apps
+  -  Building Websites
+-  Im extremely into video game preservation
+-  I own [persn.dev](https://persn.dev) where you can find my other projects i've worked on such as [Eggium](https://eggium.net) and [Ghostberry](https://ghostberry.net).
 
-# 🚀 My stats
+# 🚀 My Stats
 [![I flex](https://github-readme-stats-sathonay.vercel.app/api?username=spjoes&line_height=27&count_private=true&hide_border=true&show_icons=true&bg_color=1A1C1F&text_color=FFFFFF&title_color=9680E7&icon_color=9680E7)](https://github.com/spjoes)
 [![Discord Presence](https://lanyard.cnrad.dev/api/202109343678726144)](https://discord.com/users/202109343678726144)
 
