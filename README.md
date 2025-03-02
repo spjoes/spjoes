@@ -4,11 +4,11 @@ I'm Joey but I go by IAmThePerson online.
 - Back in 2017, I started my first ever Java project, a Minecraft 1.12.2 mod called Extra-Ons.
 - Currently, I mainly focus on:
   -  Javascript/Nodejs
+  -  Java
   -  Swift
-  -  Building Apps
-  -  Building Websites
--  Im extremely into video game preservation
--  I own [persn.dev](https://persn.dev) where you can find my other projects i've worked on such as [Eggium](https://eggium.net) and [Ghostberry](https://ghostberry.net).
+  -  Building Apps and Websites
+-  I own [persn.dev](https://persn.dev)
+-  My work is mysterious and important.
 
 # 🚀 My Stats
 [![I flex](https://github-readme-stats-sathonay.vercel.app/api?username=spjoes&line_height=27&count_private=true&hide_border=true&show_icons=true&bg_color=1A1C1F&text_color=FFFFFF&title_color=9680E7&icon_color=9680E7)](https://github.com/spjoes)
@@ -16,8 +16,8 @@ I'm Joey but I go by IAmThePerson online.
 
 # 💻 Techstack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Swift](https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)\
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)\
 ![Node JS](https://img.shields.io/badge/Node%20JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)\
 ![Electron.js](https://img.shields.io/badge/Electron.js-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -26,7 +26,6 @@ I'm Joey but I go by IAmThePerson online.
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/IAmTh3Person?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/IAmTh3Person) -->
 [![YouTube](https://img.shields.io/badge/IAmThePerson-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4fk7I5-MPWBIiFsDSe_VZg)
 [![Twitch](https://img.shields.io/badge/IAmTh3Person-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/iamth3person)
-[![Reddit](https://img.shields.io/badge/official_spjoes-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/official_spjoes)
 [![Steam](https://img.shields.io/badge/mr_spjoes-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/spjoes)
 
 <!--
