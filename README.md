@@ -3,8 +3,8 @@
 I'm Joey — but I go by **IAmThePerson** online.
 
 - 📜 I build apps, websites, and scripts in [JavaScript/Node.js](https://nodejs.org/en) and [Swift](https://www.swift.org)
-- 💻 I own [persn.dev](https://persn.dev)
 - 🌱 Im currently learning [Go](https://go.dev)
+- 💻 I own [persn.dev](https://persn.dev)
 - 🕵️ My work is mysterious and important.
 
 # 🚀 My Stats
