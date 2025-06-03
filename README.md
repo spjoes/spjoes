@@ -14,4 +14,3 @@ I'm Joey — but I go by **IAmThePerson** online.
 # 📫 Where to Find Me
 [![YouTube](https://img.shields.io/badge/IAmThePerson-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4fk7I5-MPWBIiFsDSe_VZg)
 [![Twitch](https://img.shields.io/badge/IAmTh3Person-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/iamth3person)
-[![Steam](https://img.shields.io/badge/mr_spjoes-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/spjoes)
