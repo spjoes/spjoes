@@ -2,8 +2,7 @@
 
 I'm Joey — but I go by **IAmThePerson** online.
 
-- 📜 I build beautiful apps, websites, and scripts in [TypeScript/Node.js](https://nodejs.org/en)[/Bun](https://bun.com/) and [Swift](https://www.swift.org)
-- 🌱 Im currently learning [Go](https://go.dev)
+- 📜 I build beautiful apps, websites, and scripts in [JavaScript/Node.js](https://nodejs.org/en)[/Bun](https://bun.com/) and [Swift](https://www.swift.org)
 - 💻 I own [persn.dev](https://persn.dev)
 - 🏫 Im a Software Engineering major at San Jose State University
 - 🕵️ My work is mysterious and important.
@@ -11,7 +10,3 @@ I'm Joey — but I go by **IAmThePerson** online.
 # 🚀 My Stats
 [![GitHub Stats](https://github-readme-stats-sathonay.vercel.app/api?username=spjoes&line_height=27&count_private=true&hide_border=true&show_icons=true&bg_color=1A1C1F&text_color=FFFFFF&title_color=9680E7&icon_color=9680E7)](https://github.com/spjoes)
 [![Discord Presence](https://lanyard.cnrad.dev/api/202109343678726144)](https://discord.com/users/202109343678726144)
-
-# 📫 Where to Find Me
-[![YouTube](https://img.shields.io/badge/IAmThePerson-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4fk7I5-MPWBIiFsDSe_VZg)
-[![Twitch](https://img.shields.io/badge/IAmTh3Person-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/iamth3person)
