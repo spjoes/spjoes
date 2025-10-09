@@ -2,9 +2,10 @@
 
 I'm Joey — but I go by **IAmThePerson** online.
 
-- 📜 I build apps, websites, and scripts in [JavaScript/Node.js](https://nodejs.org/en) and [Swift](https://www.swift.org)
+- 📜 I build beautiful apps, websites, and scripts in [TypeScript/Node.js](https://nodejs.org/en)[/Bun](https://bun.com/) and [Swift](https://www.swift.org)
 - 🌱 Im currently learning [Go](https://go.dev)
 - 💻 I own [persn.dev](https://persn.dev)
+- 🏫 Im a Software Engineering major at San Jose State University
 - 🕵️ My work is mysterious and important.
 
 # 🚀 My Stats
