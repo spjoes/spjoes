@@ -5,6 +5,7 @@ I'm Joey — but I go by **IAmThePerson** online.
 - 📜 I build beautiful apps, websites, and scripts in [JavaScript/Node.js](https://nodejs.org/en)[/Bun](https://bun.com/) and [Swift](https://www.swift.org)
 - 💻 I own [persn.dev](https://persn.dev) & [persn.co](https://persn.co)
 - 🌱 Currently learning Nix and [NixOS](https://nixos.org/). Here's [my config](https://github.com/spjoes/nixos-config)!
+- ☕ I host my own Git service at [git.aserver.online](https://git.aserver.online/)
 - 🏫 Im a Software Engineering major at San Jose State University
 - 🕵️ My work is mysterious and important.
 
