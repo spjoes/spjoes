@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm Joey — but I go by **IAmThePerson** online.
+I'm Joey -- but I go by **IAmThePerson** (sometimes shortened to **persn**) online.
 
 - 📜 I build beautiful apps, websites, and scripts in [JavaScript/Node.js](https://nodejs.org/en)[/Bun](https://bun.com/) and [Swift](https://www.swift.org)
 - 💻 I own [persn.dev](https://persn.dev) & [persn.co](https://persn.co)
